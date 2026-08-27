@@ -45,5 +45,5 @@
 
 ## Контакты
 
-* **Telegram:** [https://t.me/leontievak]
-* **Email:** [mailto:leontevaakristinaa@gmail.com]
+* **Telegram:** [@leontievak](https://t.me/leontievak)
+* **Email:** [leontevaakristinaa@gmail.com](mailto:leontevaakristinaa@gmail.com)
